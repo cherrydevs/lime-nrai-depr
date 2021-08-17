@@ -1,2 +1,1 @@
-# lime_nrai
-lime_nrai, LimeyTeam's Not Really an AI software.
+depracated because of some stupid rename i want to do on crates.io
