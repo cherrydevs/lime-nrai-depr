@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "lime-nrai"
+name = "lime_nrai"
 version = "0.1.0"
